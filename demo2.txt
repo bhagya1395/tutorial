@@ -1,0 +1,4 @@
+hiiii
+i am python developer
+git init
+git status
